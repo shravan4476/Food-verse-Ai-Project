@@ -1,0 +1,9 @@
+-r requirements-core.txt
+
+# Vision / deep learning (Epics 2-4)
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+opencv-python-headless>=4.9
+# Optional: object detection for hygiene (PPE) monitoring
+# ultralytics>=8.2
